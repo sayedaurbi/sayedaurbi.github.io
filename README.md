@@ -1,4 +1,4 @@
-# 👩‍💻 YOUR NAME - Data Science Portfolio
+# 👩‍💻 Sayeda Iqra Fatiha Urbi - Data Science Portfolio
 
 Hi there! I'm **Sayeda Iqra Fatiha Urbi**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
 
